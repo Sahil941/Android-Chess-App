@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">"         Android Chess 46"</string>
+
+    <string name="play_chess_btn">Play Chess</string>
+    <string name="recorded_games_btn">Watch Recorded Games</string>
+    <string name="playback_game_btn">Playback</string>
+
+    <string name="undo_btn">Undo</string>
+    <string name="draw_btn">Draw</string>
+    <string name="resign_btn">Resign</string>
+    <string name="ai_btn">AI Move</string>
+    <string name="draw_confirm">Call a draw?</string>
+
+    <string name="check_title">In Check!</string>
+    <string name="check_ok_dialog">Ok</string>
+    <string name="checkmate_title">Checkmate!</string>
+    <string name="dialog_save_match_button">Save</string>
+    <string name="dialog_cancel_button">Cancel</string>
+    <string name="dialog_save_match_message">Would you like to save this game?</string>
+    <string name="stalemate_title">Stalemate!</string>
+    <string name="dialog_title_hint">Enter Game Title</string>
+    <string name="resign_title">You have chose to Resign!</string>
+    <string name="next_btn">" Next Play"</string>
+    <string name="prev_btn">" Previous Play"</string>
+
+    <string name="promotion_title">Promote Piece!</string>
+    <string name="promotion_message">Which promotion do you want to promote?</string>
+    <string-array name="promotion_array">
+        <item>Queen</item>
+        <item>Knight</item>
+        <item>Rook</item>
+        <item>Bishop</item>
+    </string-array>
+    <string name="draw_title">You have chose to call a draw!</string>
+</resources>
